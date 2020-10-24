@@ -15,3 +15,5 @@ paste the following code into the terminal after you have added your name into t
 
 * Zubier Abdullah
 * Tahmid Ekram 
+
+* Tanzim Alam Fahim
