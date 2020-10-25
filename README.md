@@ -19,4 +19,5 @@ paste the following code into the terminal after you have added your name into t
 * arnab
 * Shahan Ahmed
 * Tanzim Alam Fahim
+* Naziza
 
